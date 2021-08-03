@@ -1,0 +1,4 @@
+Lista De Convidados (Mateus\Tests\Services\ListaDeConvidados)
+ [x] Lista de convidados nao deve aceitar convidados menores de idade with data set "Convidados aleatórios"
+ [x] Lista de convidados deve identificar senha informada with data set "Convidados aleatórios"
+
